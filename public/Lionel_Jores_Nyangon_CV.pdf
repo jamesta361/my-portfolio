@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1498 >>
+stream
+BT
+/F1 12 Tf
+50 792 Td
+14 TL
+/F1 24 Tf
+(Lionel Jores Nyangon) Tj
+T* /F1 12 Tf
+(Web3 Security Engineer & DeFi Builder) Tj
+T*
+T*
+T* /F1 16 Tf
+(Profile) Tj
+T* /F1 12 Tf
+(Full-stack Web3 developer focused on DeFi automation, smart contract security,) Tj
+T*
+(flash-loan arbitrage systems, Solana/EVM tooling, and AI-powered trading agents.) Tj
+T*
+T*
+T* /F1 16 Tf
+(Core Skills) Tj
+T* /F1 12 Tf
+(- Solidity, Foundry, Uniswap V3, EVM/Base, flash loans, MEV-aware routing) Tj
+T*
+(- Rust / Anchor, Solana monitoring, Birdeye API, token intelligence) Tj
+T*
+(- Python, FastAPI, Telegram bots, RL/agent loops, automation pipelines) Tj
+T*
+(- Node.js, Express, MongoDB, JWT auth, Docker, Vercel deployment) Tj
+T*
+(- AI integrations: local LLMs, OpenRouter, Groq, multi-agent workflows) Tj
+T*
+T*
+T* /F1 16 Tf
+(Featured Projects) Tj
+T* /F1 12 Tf
+(OpenMythos-Bot ? LLM-powered crypto intelligence and flash-arbitrage bot.) Tj
+T*
+(Includes Solidity contracts, FastAPI dashboard, Telegram bot, RL agent loop,) Tj
+T*
+(and OpenMythos RDT model implementation. GitHub: github.com/jores915/OpenMythos-Bot) Tj
+T*
+T*
+(DropAgent-Hermes ? Shopify AI dropshipping automation agent with luxury storefront) Tj
+T*
+(direction.) Tj
+T*
+T*
+(SS1 Platform ? Node/Express microservices platform with auth, affiliate, admin dashboard.) Tj
+T*
+T*
+T* /F1 16 Tf
+(Contact) Tj
+T* /F1 12 Tf
+(Email: lioneljores4@gmail.com) Tj
+T*
+(GitHub: github.com/jores915 | github.com/lionj4) Tj
+T*
+(Telegram: @lioneljores) Tj
+T*
+(X: @Jores1301Jores) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1861
+%%EOF
